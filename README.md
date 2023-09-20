@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nithish-27/nithish-27/output/snake.svg" alt="Snake animation" />
+//<img src="https://raw.githubusercontent.com/nithish-27/nithish-27/output/snake.svg" alt="Snake animation" />
 
 ###
 
