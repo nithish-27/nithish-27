@@ -1,52 +1,86 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Nithish Kumar 👋
 
-###
+🚀 **Full-Stack Developer | AI & ML Enthusiast | Problem Solver**
 
-<p align="left">My name is Nithish Kumar and I'm a Fullstack developer.</p>
+Welcome to my GitHub! I build **scalable web apps**, explore **AI/ML/DL**, and love experimenting with **cutting-edge tech**.  
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🛠️ Tech Stack
 
-###
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,threejs,gsap,vite" />
+</p>
 
-<p align="left">📚 I'm currently learning GraphQL<br>🎯 Goals: To learn DevOps<br>🎲 Fun fact: The original name for Google was 'Backrub'!🕵️‍♂️🔍</p>
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,graphql" />
+</p>
 
-###
+### **Databases & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,docker,git,github,redux" />
+</p>
 
-<h2 align="left">I code with</h2>
+### **AI/ML & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" /> 
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FBBF24?style=for-the-badge&logo=huggingface&logoColor=white" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+## 📚 What I’m Working On
+- **Learning Management System (LMS):**  
+  - Dynamic concepts & sub-concepts with ordered content.  
+  - React + Tailwind frontend with Flask + Node backend.  
+  - Scroll-triggered **3D animations** using React Three Fiber & GSAP.
 
+- **Multi-User PDF Chat:**  
+  - FAISS for **per-user vector search**.  
+  - Flask API + Node middleware + React frontend.  
 
+- **Code Compiler:**  
+  - MERN stack **in-browser compiler** with **Docker sandboxing**.
 
-<div align="center">
-  <br><br>
-  <img src="https://profile-counter.glitch.me/nithish-27/count.svg?"  />
-</div>
+- **AI Projects:**  
+  - Building **Agentic AI** (GenAI + Memory + Reasoning + Tools).  
+  - Hallucination detection pipelines.  
+  - Deploying ML models on **Hugging Face**.
 
-###
+---
+
+## 🌱 Currently Learning
+- Advanced **Next.js** (App Router, GraphQL API integration).  
+- **Product Management** for transitioning into product leadership.  
+- **AI-powered automation** with LangChain & RAG.
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NithishKumar&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishKumar&layout=compact&theme=radical" height="165" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NithishKumar&theme=radical" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+<p>
+  <a href="https://linkedin.com/in/nithishkumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **Fun Fact:**  
+*"I love turning complex problems into simple, elegant solutions — from smooth 3D animations to optimized API architectures."*
