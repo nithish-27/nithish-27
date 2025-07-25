@@ -61,21 +61,21 @@ Welcome to my GitHub! I build **scalable web apps**, explore **AI/ML/DL**, and l
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NithishKumar&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishKumar&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithish-27&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-27&layout=compact&theme=radical" height="165" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NithishKumar&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nithish-27&theme=radical" />
 </p>
 
 ---
 
 ## 📫 Let’s Connect
 <p>
-  <a href="https://linkedin.com/in/nithishkumar">
+  <a href="https://linkedin.com/in/nithishkumarrajendran">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rajnithish27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
